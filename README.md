@@ -420,7 +420,7 @@
                 
                 <div class="simulation-warning">
                     💡 <strong>faz dinheiro nessa porra</strong><br>
-                    Todos os produtos são fictícios para fins de aprendizado.
+                    tudo online no chat tropa.
                 </div>
             </div>
 
