@@ -419,7 +419,7 @@
                 <p>Explore todas as categorias disponíveis!</p>
                 
                 <div class="simulation-warning">
-                    💡 <strong>DEMONSTRAÇÃO EDUCATIVA</strong><br>
+                    💡 <strong>faz dinheiro nessa porra</strong><br>
                     Todos os produtos são fictícios para fins de aprendizado.
                 </div>
             </div>
